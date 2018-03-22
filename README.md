@@ -1,2 +1,2 @@
 # exercise-repo
-This will make changes
+We resolved the conflict!
